@@ -1,5 +1,5 @@
-# 💫 Hi! Welcome to my GitHUb profile:
-I'm Areeba, a final year Software Engineering student at the COMSATS University Islamabad.<br><br>🔭 I'm currently working on my FYP (AI based Android app)<br>🌱 interested in Data Science<br>📫 Focused on learning & improving<br>💬 Ask me about anything about my university & work experience!<br>💫 Connect with me on LinkedIn www.linkedin.com/in/areeba-akram<br>
+# 💫 Hi, I'm Areeba ✨
+🧠 Software Engineering student at the COMSATS University Islamabad<br>🔭 I'm currently working on my FYP (AI based Android app)<br>🌱 Interested in Data Science<br>📫 Focused on learning & improving<br>💬 Ask me about anything about my university & work experience!<br>💫 Connect with me on LinkedIn www.linkedin.com/in/areeba-akram<br>
 
 
 ## 🌐 Socials:
