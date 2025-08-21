@@ -1,5 +1,5 @@
 # Hi, I'm Areeba ✨
-🧠 Software Engineering student at the COMSATS University Islamabad<br>🔭 I'm currently working on my FYP (AI based Android app)<br>🌱 Interested in Data Science<br>📫 Focused on learning & improving<br>💬 Ask me about anything about my university & work experience!<br>💫 Connect with me on LinkedIn www.linkedin.com/in/areeba-akram<br>
+🧠 Software Engineering student at the COMSATS University Islamabad<br>🔭 I'm currently working on my FYP (AI based Android app)<br>🌱 Interested in Data Science & Android Development<br>📫 Focused on learning & improving<br>💬 Ask me about anything about my university & work experience!<br>💫 Connect with me on LinkedIn www.linkedin.com/in/areeba-akram<br>
 
 
 ## 🌐 Socials:
