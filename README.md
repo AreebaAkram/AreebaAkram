@@ -2,7 +2,7 @@
 ✨ An Android developer specializing in AI-powered mobile applications, combining Kotlin, Jetpack Compose, and cloud AI to create experiences that actually solve real problems.<br>
 🔭 I'm currently working on NutriSafe, which is an AI-powered food safety app<br>
 🧠 Focused on clean architecture (MVVM + Hilt), modern Jetpack Compose UI, and scalable backend design. <br>
-🌱 Interested in AI & Android Development<br>📫 Focused on learning & improving<br>💬 Ask me about anything about my university & work experience!<br>💫 Connect with me on LinkedIn www.linkedin.com/in/areeba-akram<br>
+🌱 Interested in AI & Android Development<br>📫 Focused on learning & improving<br>💬 Ask me about anything about my university & work experience!<br>📫 www.linkedin.com/in/areeba-akram<br>
 
 
 ## 🌐 Socials:
